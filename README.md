@@ -9,6 +9,6 @@
       The clonned code should be completed based on the class activity
   </li>
   <li>
-     The completed code should be commited into your own 
+     The completed code should be commited into your own repository
   </li>
 </ul>
